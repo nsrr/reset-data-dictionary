@@ -1,0 +1,10 @@
+{
+  "id": "total_minutes_awake",
+  "display_name": "Altogether these awakenings lasted ____ minutes:",
+  "description": "",
+  "type": "text",
+  "units": "minutes",
+  "labels": [
+    "sleep_survey"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "total_alcohol",
+  "display_name": "Total # of Alcoholic Beverages:",
+  "description": "",
+  "type": "numeric",
+  "units": "count",
+  "labels": [
+    "sleep_survey"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psqi_5other",
+  "display_name": "During the past month, if you had trouble sleeping because of other reason(s), please describe?",
+  "description": "[Pittsburg Sleep Quality Index (PSQI)](https://doi.org/10.1016/0165-1781(89)90047-4)<br><br>[Search for all PANAS variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=psqi)",
+  "type": "text"
+}

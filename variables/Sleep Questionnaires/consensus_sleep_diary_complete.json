@@ -1,0 +1,9 @@
+{
+  "id": "consensus_sleep_diary_complete",
+  "display_name": "Indicator of whether daily sleep diary was complete",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "csd"
+  ]
+}

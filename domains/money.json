@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Not enough to get by",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Just enough to get by",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "We only have to worry about money for fun or extras",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "We never have to worry about money",
+    "description": ""
+  }
+]

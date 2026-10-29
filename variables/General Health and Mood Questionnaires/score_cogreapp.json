@@ -1,0 +1,10 @@
+{
+  "id": "score_cogreapp",
+  "display_name": "ERQ Score: Cognitive Reappraisal facet",
+  "description": "Scored from responses to the [Emotional Regulation Questionnaire](https://doi.org/10.1037/t06463-000)<br><br>[Search for all ERQ variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=erq)<br><br>",
+  "type": "numeric",
+  "calculation": "[erq1]+[erq3]+[erq5]+[erq7]+[erq8]+[erq10]",
+  "labels": [
+    "erq"
+  ]
+}

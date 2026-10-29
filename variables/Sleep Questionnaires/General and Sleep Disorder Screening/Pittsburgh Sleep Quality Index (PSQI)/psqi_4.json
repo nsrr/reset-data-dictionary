@@ -1,0 +1,9 @@
+{
+  "id": "psqi_4",
+  "display_name": " During the past month, how many hours of actual sleep did you get at night?",
+  "description": "[Pittsburg Sleep Quality Index (PSQI)](https://doi.org/10.1016/0165-1781(89)90047-4)<br><br>[Search for all PANAS variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=psqi)",
+  "type": "text",
+  "labels": [
+    "psqi"
+  ]
+}

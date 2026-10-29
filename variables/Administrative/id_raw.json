@@ -1,0 +1,6 @@
+{
+  "id": "id_raw",
+  "display_name": "Participant ID and study condition",
+  "description": "Please enter the participant ID number your experimenters gave you.",
+  "type": "text"
+}

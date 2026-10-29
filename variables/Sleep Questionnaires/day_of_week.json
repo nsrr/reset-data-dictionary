@@ -1,0 +1,10 @@
+{
+  "id": "day_of_week",
+  "display_name": "What day is today?",
+  "description": "",
+  "type": "choices",
+  "domain": "day_of_week",
+  "labels": [
+    "sleep_survey"
+  ]
+}

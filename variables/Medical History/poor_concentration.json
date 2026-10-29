@@ -1,0 +1,10 @@
+{
+  "id": "poor_concentration",
+  "display_name": "Compared with before the accident, do you now suffer from: Poor concentration",
+  "description": "[Rivermead Post Concussion Symptoms Questionnaire](https://doi.org/10.1007/bf00868811)<br><br>[Search for all Rivermead variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=rpq)<br><br>If you have ever had a concussion, please fill out the following questionnaire. If you have never had a concussion, please skip this questionnaire.After a head injury or accident some people experience symptoms which can cause worry ornuisance. We would like to know if you now suffer from any of the symptoms given below. As many of these symptoms occur normally, we would like you to compare yourself now withbefore the accident. For each one, please circle the number closest to your answer.",
+  "type": "choices",
+  "domain": "rivermead",
+  "labels": [
+    "rpq"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "nap_home",
+  "display_name": "Do you take naps at home?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

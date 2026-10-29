@@ -1,0 +1,7 @@
+{
+  "id": "covid_date",
+  "display_name": "How long ago did you have COVID? You can write it in terms of number of months",
+  "description": "",
+  "type": "text",
+  "units": "months"
+}

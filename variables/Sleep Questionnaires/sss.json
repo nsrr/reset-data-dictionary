@@ -1,0 +1,10 @@
+{
+  "id": "sss",
+  "display_name": "Stanford Sleepiness Scale: Using the scale below pick what best represents how you are feeling.",
+  "description": "",
+  "type": "choices",
+  "domain": "sss",
+  "labels": [
+    "sss"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "minutes_awake",
+  "display_name": "Each awakening during the night lasted (e.g., 5 minutes, 10 minutes, 20 minutes):",
+  "description": "",
+  "type": "text",
+  "units": "minutes",
+  "labels": [
+    "sleep_survey"
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "Feeling active and vital; wide-awake",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Functioning at a high level, but not at peak; able to concentrate",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Relaxed; awake; not at full alertness; responsive",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A little foggy, not at peak; let down",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Fogginess; beginning to lose interest in remaining awake; slowed down",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Sleepiness; prefer to be lying down; fighting sleep, woozy",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Almost in reverie; sleep onset soon; lost struggle to remain awake",
+    "description": ""
+  }
+]

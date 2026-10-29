@@ -1,0 +1,7 @@
+{
+  "id": "gender_7",
+  "display_name": "None of the provided options (man, woman, non-binary, transgender) describe me. ",
+  "description": "None of these describe me, and I'd like to consider additional options (derived from gender option 7)",
+  "type": "choices",
+  "domain": "yesno"
+}

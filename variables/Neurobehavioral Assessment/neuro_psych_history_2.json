@@ -1,0 +1,7 @@
+{
+  "id": "neuro_psych_history_2",
+  "display_name": "History of Migraines",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

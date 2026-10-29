@@ -1,0 +1,10 @@
+{
+  "id": "no_alarm",
+  "display_name": "Check here if you didn't have a specific wake up time planned.",
+  "description": "",
+  "type": "choices",
+  "domain": "no_alarm_1",
+  "labels": [
+    "sleep_survey"
+  ]
+}

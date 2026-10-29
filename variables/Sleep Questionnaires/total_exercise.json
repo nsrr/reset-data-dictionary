@@ -1,0 +1,10 @@
+{
+  "id": "total_exercise",
+  "display_name": "Amount of exercise today in minutes: (intentional exercise like jogging, etc.)",
+  "description": "",
+  "type": "text",
+  "units": "minutes",
+  "labels": [
+    "sleep_survey"
+  ]
+}

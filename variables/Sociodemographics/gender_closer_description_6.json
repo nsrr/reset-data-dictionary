@@ -1,0 +1,7 @@
+{
+  "id": "gender_closer_description_6",
+  "display_name": "Questioning or unsure of your gender identity",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

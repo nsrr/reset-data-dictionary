@@ -1,0 +1,10 @@
+{
+  "id": "panas_interested",
+  "display_name": "Indicate to what extent you feel this way right now: Interested",
+  "description": "",
+  "type": "choices",
+  "domain": "panas",
+  "labels": [
+    "panas"
+  ]
+}

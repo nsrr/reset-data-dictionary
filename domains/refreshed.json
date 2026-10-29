@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Not at all rested",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Slightly rested",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat rested",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Well-rested",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Very well-rested",
+    "description": ""
+  }
+]

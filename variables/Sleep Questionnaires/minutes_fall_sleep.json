@@ -1,0 +1,10 @@
+{
+  "id": "minutes_fall_sleep",
+  "display_name": "It took me about ____ minutes to fall asleep.",
+  "description": "",
+  "type": "text",
+  "units": "minutes",
+  "labels": [
+    "sleep_survey"
+  ]
+}

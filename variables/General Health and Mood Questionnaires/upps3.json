@@ -1,0 +1,10 @@
+{
+  "id": "upps3",
+  "display_name": "Indicate how much you agree or disagree with the statement: When I am in great mood, I tend to get into situations that could cause me problems.",
+  "description": "[Short Urgency-Premeditation-Perseverance-Sensation Seeking-Positive Urgency (UPPS-P) Impulsive Behavior Scale](https://doi.org/10.3389/fpsyt.2019.00139)<br><br>[Search for all UPPS-P variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=upps)<br><br>Original Instructions: Below are a number of statements that describe ways in which people act and think. For each statement, please indicate how much you agree or disagree with the statement. Be sure to indicate your agreement or disagreement for every statement below.",
+  "type": "choices",
+  "domain": "upps",
+  "labels": [
+    "upps"
+  ]
+}

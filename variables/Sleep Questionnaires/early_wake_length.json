@@ -1,0 +1,9 @@
+{
+  "id": "early_wake_length",
+  "display_name": "If yes, how much earlier (in minutes)?",
+  "description": "[Consensus Sleep Diary](https://doi.org/10.5665/sleep.1642)<br><br>[Search for all CSD variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=csd)<br><br>",
+  "type": "text",
+  "labels": [
+    "csd"
+  ]
+}

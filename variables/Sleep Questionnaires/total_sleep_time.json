@@ -1,0 +1,10 @@
+{
+  "id": "total_sleep_time",
+  "display_name": "Last night, I think altogether I slept ____ hours and ____ minutes:",
+  "description": "",
+  "type": "text",
+  "units": "hours and minutes",
+  "labels": [
+    "sleep_survey"
+  ]
+}

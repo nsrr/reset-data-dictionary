@@ -1,0 +1,7 @@
+{
+  "id": "money",
+  "display_name": "How much money does your family have?",
+  "description": "",
+  "type": "choices",
+  "domain": "money"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "income",
+  "display_name": "During the past year, what was the total income for your household before taxes?",
+  "description": "",
+  "type": "choices",
+  "domain": "income"
+}

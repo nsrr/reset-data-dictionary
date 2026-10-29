@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Car accident",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fall",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Sports-related",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Violence",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Explosive blasts or combat",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Other",
+    "description": ""
+  }
+]

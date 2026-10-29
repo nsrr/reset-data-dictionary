@@ -1,0 +1,6 @@
+{
+  "id": "diagnosed_mtbi",
+  "display_name": "How was the concussion diagnosed? For example, did you see a doctor, athletic trainer, self diagnosed, or did you realize later that you were potentially concussed?",
+  "description": "",
+  "type": "text"
+}

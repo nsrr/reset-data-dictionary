@@ -1,0 +1,10 @@
+{
+  "id": "time_into_bed",
+  "display_name": "Last night, I physically got into bed at:",
+  "description": "",
+  "type": "text",
+  "units": "time",
+  "labels": [
+    "sleep_survey"
+  ]
+}

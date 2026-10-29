@@ -1,0 +1,10 @@
+{
+  "id": "total_cigarettes",
+  "display_name": "Total # of cigarettes:",
+  "description": "",
+  "type": "numeric",
+  "units": "count",
+  "labels": [
+    "sleep_survey"
+  ]
+}

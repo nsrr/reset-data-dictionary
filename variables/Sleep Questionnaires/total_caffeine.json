@@ -1,0 +1,10 @@
+{
+  "id": "total_caffeine",
+  "display_name": "Amount of coffee or caffeine-containing beverages: (# glasses/cups)",
+  "description": "",
+  "type": "text",
+  "units": "count (glasses/cups)",
+  "labels": [
+    "sleep_survey"
+  ]
+}

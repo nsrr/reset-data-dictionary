@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "No, not of Hispanic, Latino, or Spanish origin",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, Mexican, Mexican Am., Chicano",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Yes, Puerto Rican",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Yes, Cuban",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Yes, another Hispanic, Latino, or Spanish origin",
+    "description": ""
+  }
+]

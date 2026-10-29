@@ -1,0 +1,10 @@
+{
+  "id": "current_state",
+  "display_name": "Choose the description that best fits your current state.",
+  "description": "",
+  "type": "choices",
+  "domain": "current_state",
+  "labels": [
+    "sleep_survey"
+  ]
+}

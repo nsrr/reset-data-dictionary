@@ -1,0 +1,7 @@
+{
+  "id": "gender_closer_description_7",
+  "display_name": "None of the provided gender descriptions  describe me, and I want to specify (derived from gender_closer_description option 7)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

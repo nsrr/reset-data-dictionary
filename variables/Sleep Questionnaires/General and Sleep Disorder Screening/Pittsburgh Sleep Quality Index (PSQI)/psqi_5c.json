@@ -1,0 +1,10 @@
+{
+  "id": "psqi_5c",
+  "display_name": "During the past month, how often have you had trouble sleeping because you: Have to get up to use the bathroom",
+  "description": "[Pittsburg Sleep Quality Index (PSQI)](https://doi.org/10.1016/0165-1781(89)90047-4)<br><br>[Search for all PANAS variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=psqi)",
+  "type": "choices",
+  "domain": "psqi_freq",
+  "labels": [
+    "psqi"
+  ]
+}

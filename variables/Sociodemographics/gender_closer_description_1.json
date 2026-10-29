@@ -1,0 +1,7 @@
+{
+  "id": "gender_closer_description_1",
+  "display_name": "Trans man/Transgender Man/FTM",
+  "description": "Are any of these a closer description to your gender identity? Shown only when [gender(7)] = '1'",
+  "type": "choices",
+  "domain": "yesno"
+}

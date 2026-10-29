@@ -1,0 +1,6 @@
+{
+  "id": "nap_home_length",
+  "display_name": "For how long, on average, per nap?",
+  "description": "",
+  "type": "text"
+}

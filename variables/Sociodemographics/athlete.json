@@ -1,0 +1,7 @@
+{
+  "id": "athlete",
+  "display_name": "If you are currently a student (high school, undergraduate, or graduate), do you currently play on a sports team (this includes club but NOT intramural at colleges and universities)?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "brain_injury_cause",
+  "display_name": "What caused the brain injury?",
+  "description": "",
+  "type": "choices",
+  "domain": "brain_injury_cause"
+}

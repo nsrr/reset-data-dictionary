@@ -1,0 +1,7 @@
+{
+  "id": "neuro_psych_history_5",
+  "display_name": "History of PTSD",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

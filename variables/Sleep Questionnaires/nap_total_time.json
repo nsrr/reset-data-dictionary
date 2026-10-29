@@ -1,0 +1,10 @@
+{
+  "id": "nap_total_time",
+  "display_name": "Today I napped for ____ hours and ____ minutes.",
+  "description": "",
+  "type": "text",
+  "units": "hours and minutes",
+  "labels": [
+    "sleep_survey"
+  ]
+}

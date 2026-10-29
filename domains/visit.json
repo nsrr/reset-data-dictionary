@@ -1,0 +1,57 @@
+[
+  {
+    "value": "1",
+    "display_name": "Lab Visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP1",
+    "display_name": "1 day after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP2",
+    "display_name": "2 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP3",
+    "display_name": "3 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP4",
+    "display_name": "4 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP5",
+    "display_name": "5 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP6",
+    "display_name": "6 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP7",
+    "display_name": "7 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP8",
+    "display_name": "8 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "TP9",
+    "display_name": "9 days after visit 1",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Lab Visit 2",
+    "description": ""
+  }
+]

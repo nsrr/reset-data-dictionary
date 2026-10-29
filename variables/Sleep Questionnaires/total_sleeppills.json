@@ -1,0 +1,10 @@
+{
+  "id": "total_sleeppills",
+  "display_name": "Total # of Sleeping Pills:",
+  "description": "",
+  "type": "numeric",
+  "units": "count",
+  "labels": [
+    "sleep_survey"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "gender_4",
+  "display_name": "Woman",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

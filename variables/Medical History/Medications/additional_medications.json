@@ -1,0 +1,6 @@
+{
+  "id": "additional_medications",
+  "display_name": "Are you on any additional medications? If yes, please list them",
+  "description": "",
+  "type": "text"
+}

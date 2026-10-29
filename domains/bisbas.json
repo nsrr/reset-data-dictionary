@@ -1,0 +1,22 @@
+[
+  {
+    "value": "4",
+    "display_name": "very true for me",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "somewhat true for me",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "somewhat false for me",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "very false for me",
+    "description": ""
+  }
+]

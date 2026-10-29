@@ -1,0 +1,6 @@
+{
+  "id": "are_you_feeling_any_other",
+  "display_name": "Are you feeling any other symptoms, and what is their severity?",
+  "description": "",
+  "type": "text"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "sport",
+  "display_name": "Which sport do you currently play? (must be on NCAA or club team)",
+  "description": "",
+  "type": "text"
+}

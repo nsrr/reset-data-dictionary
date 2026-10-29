@@ -1,0 +1,7 @@
+{
+  "id": "number_mtbis",
+  "display_name": "How many concussions have you had in the past?",
+  "description": "",
+  "type": "choices",
+  "domain": "number_mtbis"
+}

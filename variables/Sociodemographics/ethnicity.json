@@ -1,0 +1,7 @@
+{
+  "id": "ethnicity",
+  "display_name": "Are you Hispanic, Latino, or Spanish origin?",
+  "description": "Designations determined by 2020 Census",
+  "type": "choices",
+  "domain": "ethnicity"
+}

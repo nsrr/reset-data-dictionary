@@ -1,0 +1,10 @@
+{
+  "id": "time_woke_up",
+  "display_name": "This morning, I actually woke up at:",
+  "description": "",
+  "type": "text",
+  "units": "time",
+  "labels": [
+    "sleep_survey"
+  ]
+}

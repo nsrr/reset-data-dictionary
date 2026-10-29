@@ -1,0 +1,10 @@
+{
+  "id": "panas_nervous",
+  "display_name": "Indicate to what extent you feel this way right now: Nervous",
+  "description": "[Positive and Negative Affect Schedule](https://doi.org/10.1037//0022-3514.54.6.1063)<br><br>[Search for all PANAS variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=panas)<br><br>Original Instructions: This scale consists of a number of words that describe different feelings and emotions. Read each item and then list the number from the scale below next to each word. Indicate to what extent you feel this way right now, that is, at the present moment",
+  "type": "choices",
+  "domain": "panas",
+  "labels": [
+    "panas"
+  ]
+}

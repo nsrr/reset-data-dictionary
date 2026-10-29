@@ -1,0 +1,10 @@
+{
+  "id": "light_pcss",
+  "display_name": "Indicate how much the symptom has bothered you today: Sensitivity to light",
+  "description": "[Post Concussion Symptom Scale(PCSS)](https://doi.org/10.1097/00001199-199804000-00004)<br><br>[Search for all PCSS variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=pcss)<br><br>Original Instructions: For each physical symptom item, indicate how much the symptom has bothered you today. Please use the 0-6 scale provided for each symptom.",
+  "type": "choices",
+  "domain": "pcss",
+  "labels": [
+    "pcss"
+  ]
+}

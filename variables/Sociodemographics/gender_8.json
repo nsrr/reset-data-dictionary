@@ -1,0 +1,7 @@
+{
+  "id": "gender_8",
+  "display_name": "Prefer not to answer about gender identity",
+  "description": "Prefer not to answer (derived from gender option 8)",
+  "type": "choices",
+  "domain": "yesno"
+}

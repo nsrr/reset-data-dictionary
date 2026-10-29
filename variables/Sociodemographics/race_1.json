@@ -1,0 +1,7 @@
+{
+  "id": "race_1",
+  "display_name": "Black or African American",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

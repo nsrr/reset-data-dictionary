@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Non-compliance",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Did not wish to continue in study",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Could not tolerate the supplement",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Hospitalization",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Other",
+    "description": ""
+  }
+]

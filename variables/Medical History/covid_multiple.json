@@ -1,0 +1,7 @@
+{
+  "id": "covid_multiple",
+  "display_name": "Have you had COVID more than once?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

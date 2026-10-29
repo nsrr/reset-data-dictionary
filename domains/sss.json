@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Feeling active, vital, alert, or wide awake",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Functioning at high levels, but not fully alert Awake, but relaxed; responsive but not fully alert",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat foggy, let down",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Foggy; losing interest in remaining awake; slowed down Sleepy, woozy, fighting sleep; prefer to lie down",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "No longer fighting sleep, sleep onset soon; having dream-like thoughts",
+    "description": ""
+  }
+]

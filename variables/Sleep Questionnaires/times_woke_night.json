@@ -1,0 +1,10 @@
+{
+  "id": "times_woke_night",
+  "display_name": "Last night, after I finally fell asleep, I woke up this many times during the night:",
+  "description": "",
+  "type": "numeric",
+  "domain": "times_woke_night",
+  "labels": [
+    "sleep_survey"
+  ]
+}

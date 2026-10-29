@@ -1,0 +1,10 @@
+{
+  "id": "score_expsupp",
+  "display_name": "ERQ Score: Expressive Suppression facet",
+  "description": "Scored from responses to the [Emotional Regulation Questionnaire](https://doi.org/10.1037/t06463-000)<br><br>[Search for all ERQ variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=erq)<br><br>",
+  "type": "numeric",
+  "calculation": "[erq2]+[erq4]+[erq6]+[erq9]",
+  "labels": [
+    "erq"
+  ]
+}

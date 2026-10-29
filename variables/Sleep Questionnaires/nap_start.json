@@ -1,0 +1,10 @@
+{
+  "id": "nap_start",
+  "display_name": "Today I napped at:",
+  "description": "",
+  "type": "text",
+  "units": "time of day",
+  "labels": [
+    "sleep_survey"
+  ]
+}

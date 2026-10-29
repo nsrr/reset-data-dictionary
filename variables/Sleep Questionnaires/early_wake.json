@@ -1,0 +1,10 @@
+{
+  "id": "early_wake",
+  "display_name": "Did you wake up earlier than you planned?",
+  "description": "[Consensus Sleep Diary](https://doi.org/10.5665/sleep.1642)<br><br>[Search for all CSD variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=csd)<br><br>",
+  "type": "choices",
+  "domain": "yesno",
+  "labels": [
+    "csd"
+  ]
+}

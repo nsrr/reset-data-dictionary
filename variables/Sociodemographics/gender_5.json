@@ -1,0 +1,7 @@
+{
+  "id": "gender_5",
+  "display_name": "Non-binary",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

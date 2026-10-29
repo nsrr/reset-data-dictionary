@@ -1,0 +1,10 @@
+{
+  "id": "planned_wake_time",
+  "display_name": "This morning, I planned to wake up at:",
+  "description": "",
+  "type": "text",
+  "units": "time",
+  "labels": [
+    "sleep_survey"
+  ]
+}

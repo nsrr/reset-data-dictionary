@@ -1,0 +1,7 @@
+{
+  "id": "recentbti_rate",
+  "display_name": "On a scaled of 1-5, how severe was your most recent concussion?",
+  "description": "",
+  "type": "choices",
+  "domain": "recentbti_1_5"
+}

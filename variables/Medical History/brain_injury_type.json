@@ -1,0 +1,7 @@
+{
+  "id": "brain_injury_type",
+  "display_name": "What type of brain injury did you sustain?",
+  "description": "",
+  "type": "choices",
+  "domain": "brain_injury_type"
+}

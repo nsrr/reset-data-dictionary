@@ -1,0 +1,7 @@
+{
+  "id": "covid",
+  "display_name": "Have you had COVID?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

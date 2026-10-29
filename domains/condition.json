@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Nap",
+    "display_name": "Nap",
+    "description": ""
+  },
+  {
+    "value": "Wake",
+    "display_name": "Wake (No nap)",
+    "description": ""
+  }
+]

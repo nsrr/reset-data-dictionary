@@ -1,0 +1,7 @@
+{
+  "id": "race_16",
+  "display_name": "Some other race",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

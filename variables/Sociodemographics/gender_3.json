@@ -1,0 +1,7 @@
+{
+  "id": "gender_3",
+  "display_name": "Man",
+  "description": "What terms best express how you describe your gender identity? (Check all that apply)",
+  "type": "choices",
+  "domain": "yesno"
+}

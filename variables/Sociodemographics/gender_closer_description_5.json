@@ -1,0 +1,7 @@
+{
+  "id": "gender_closer_description_5",
+  "display_name": "Gender variant",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

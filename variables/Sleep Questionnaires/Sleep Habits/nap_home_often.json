@@ -1,0 +1,7 @@
+{
+  "id": "nap_home_often",
+  "display_name": "How many times a week do you nap?",
+  "description": "",
+  "type": "numeric",
+  "units": "number of events per week"
+}

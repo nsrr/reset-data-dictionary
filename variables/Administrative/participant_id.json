@@ -1,0 +1,7 @@
+{
+  "id": "participant_id",
+  "display_name": "Study ID ",
+  "description": "",
+  "type": "identifier",
+  "commonly_used": true
+}

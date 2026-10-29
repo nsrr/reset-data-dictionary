@@ -1,0 +1,10 @@
+{
+  "id": "i_feel_that_i_am_the_one_w",
+  "display_name": "I feel that I am the one who is responsible for what has happened",
+  "description": "[Cognitive Emotion Regulation Questionnaire (CERQ)](https://doi.org/10.1016/j.paid.2006.04.010)<br><br>[Search for all CERQ variables within this dataset](https://sleepdata.org/datasets/reset/variables?search=cerq)<br><br>Original Instructions: How do you cope with events? Everyone gets confronted with negative or unpleasant events now and then and everyone responds to them in his or her own way. By the following questions you are asked to indicate what you generally think, when you experience negative or unpleasant events.",
+  "type": "choices",
+  "domain": "cerqshort",
+  "labels": [
+    "cerq"
+  ]
+}
